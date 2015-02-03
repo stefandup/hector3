@@ -4,4 +4,7 @@ function [] = GitTest_HelloWorld()
 disp('Hellooooo World');
 disp('Added this...')
 disp('And this...')
+
+%% Creating conflict??
+
 end
